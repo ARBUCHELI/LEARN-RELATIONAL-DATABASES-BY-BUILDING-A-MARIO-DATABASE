@@ -1,0 +1,7 @@
+Exercise 2:
+-----------
+Your virtual machine comes with PostgreSQL installed. You will use the Psql terminal application to interact with it. Log in by typing psql --username=freecodecamp --dbname=postgres into 
+the terminal and pressing enter.
+
+>> psql --username=freecodecamp --dbname=postgres
+
