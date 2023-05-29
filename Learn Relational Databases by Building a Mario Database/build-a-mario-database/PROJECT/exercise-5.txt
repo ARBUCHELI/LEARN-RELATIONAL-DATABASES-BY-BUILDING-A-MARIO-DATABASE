@@ -1,0 +1,5 @@
+Exercise 5:
+-----------
+Use the list shortcut command again to make sure your new database is there.
+
+>> \l
