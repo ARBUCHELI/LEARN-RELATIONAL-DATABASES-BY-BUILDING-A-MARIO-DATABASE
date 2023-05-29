@@ -1,0 +1,7 @@
+Exercise 6:
+-----------
+It worked. Your new database is there. If you don't get a message after entering a command, it means it's incomplete and you likely
+forgot the semi-colon. You can just add it on the next line and press enter to finish the command. Create another database named 
+second_database.
+
+>> CREATE DATABASE second_database;
