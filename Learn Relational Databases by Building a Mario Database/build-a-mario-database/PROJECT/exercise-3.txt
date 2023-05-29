@@ -1,0 +1,16 @@
+Exercise 3:
+-----------
+Notice that the prompt changed to let you know that you are now interacting with PostgreSQL. First thing to do is see what databases are here. Type \l into the prompt to list them.
+
+>> postgres-> \l
+postgres->                                List of databases
++-----------+----------+----------+---------+---------+-----------------------+
+|   Name    |  Owner   | Encoding | Collate |  Ctype  |   Access privileges   |
++-----------+----------+----------+---------+---------+-----------------------+
+| postgres  | postgres | UTF8     | C.UTF-8 | C.UTF-8 |                       |
+| template0 | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +|
+|           |          |          |         |         | postgres=CTc/postgres |
+| template1 | postgres | UTF8     | C.UTF-8 | C.UTF-8 | =c/postgres          +|
+|           |          |          |         |         | postgres=CTc/postgres |
++-----------+----------+----------+---------+---------+-----------------------+
+(3 rows)
