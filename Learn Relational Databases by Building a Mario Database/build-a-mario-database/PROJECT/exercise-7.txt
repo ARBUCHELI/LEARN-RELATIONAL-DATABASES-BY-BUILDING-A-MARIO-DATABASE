@@ -1,0 +1,5 @@
+Exercise 7:
+-----------
+You should have another new database now. List the databases to make sure.
+
+>> \l
