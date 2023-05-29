@@ -1,0 +1,5 @@
+Exercise 8:
+-----------
+You can connect to a database by entering \c database_name. You need to connect to add information. Connect to your second_database.
+
+>> \c second_database;
