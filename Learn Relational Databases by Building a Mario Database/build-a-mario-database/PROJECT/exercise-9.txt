@@ -1,0 +1,7 @@
+Exercise 9:
+-----------
+You should see a message that you are connected. Notice that the prompt changed to second_database=>. So the postgres=> prompt 
+before must have meant you were connected to that database. A database is made of tables that hold your data. Enter \d to display 
+the tables.
+
+>> \d
