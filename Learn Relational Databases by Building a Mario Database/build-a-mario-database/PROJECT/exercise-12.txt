@@ -1,0 +1,5 @@
+Exercise 12:
+------------
+Create another new table in this database. Give it a name of second_table.
+
+>>CREATE TABLE second_table();
