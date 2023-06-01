@@ -1,0 +1,6 @@
+Exercise 11:
+------------
+View the tables in second_database again with the display command. You should see your new table there with a little meta data 
+about it.
+
+>>\d
