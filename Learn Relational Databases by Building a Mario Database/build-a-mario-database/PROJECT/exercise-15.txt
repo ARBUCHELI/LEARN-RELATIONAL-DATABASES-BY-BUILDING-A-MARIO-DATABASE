@@ -1,0 +1,11 @@
+Exercise 15:
+------------
+Tables need columns to describe the data in them, yours doesn't have any yet. Here's an example of how to add one:
+
+ALTER TABLE table_name ADD COLUMN column_name DATATYPE;
+Add a column to second_table named first_column. Give it a data type of INT. INT stands for integer. Don't forget the 
+semi-colon. 😄
+
+>> ALTER TABLE second_table ADD COLUMN first_column INT;
+
+second_database=> ALTER TABLE
