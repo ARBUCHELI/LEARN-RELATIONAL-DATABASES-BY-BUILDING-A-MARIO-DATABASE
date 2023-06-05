@@ -1,0 +1,14 @@
+Exercise 13:
+------------
+
+There should be two tables in this database now. Display them again to make sure.
+
+>> \d
+
+second_database=>                List of relations
++--------+-------------+-------+--------------+
+| Schema |    Name     | Type  |    Owner     |
++--------+-------------+-------+--------------+
+| public | first_table | table | freecodecamp |
++--------+-------------+-------+--------------+
+(1 row)
