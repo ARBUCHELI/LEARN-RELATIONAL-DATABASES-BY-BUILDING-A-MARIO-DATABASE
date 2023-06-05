@@ -1,0 +1,12 @@
+Exercise 14:
+------------
+You can view more details about a table by adding the table name after the display command like this: \d table_name. View more 
+details about your second_table.
+
+>> \d second_Table;
+
+second_database=>            Table "public.second_table"
++--------+------+-----------+----------+---------+
+| Column | Type | Collation | Nullable | Default |
++--------+------+-----------+----------+---------+
++--------+------+-----------+----------+---------+
