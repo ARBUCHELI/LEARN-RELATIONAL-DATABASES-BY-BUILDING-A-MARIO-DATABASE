@@ -1,0 +1,14 @@
+Exercise 18:
+------------
+Your table should have an id column added. View the details of second_table to make sure.
+
+>> \d second_table;
+
+second_database=> \d second_table;
+second_database=>                 Table "public.second_table"
++--------------+---------+-----------+----------+---------+
+|    Column    |  Type   | Collation | Nullable | Default |
++--------------+---------+-----------+----------+---------+
+| first_column | integer |           |          |         |
+| id           | integer |           |          |         |
++--------------+---------+-----------+----------+---------+
