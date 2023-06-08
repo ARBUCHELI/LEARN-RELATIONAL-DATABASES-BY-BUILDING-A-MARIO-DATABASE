@@ -1,0 +1,14 @@
+Exercise 17:
+------------
+Your column is there 😄 Use ALTER TABLE and ADD COLUMN to add another column to second_table named id that's a type of INT.
+
+>> ALTER TABLE second_table ADD COLUMN id INT;
+
+second_database=> \d second_table;
+second_database=>                 Table "public.second_table"
++--------------+---------+-----------+----------+---------+
+|    Column    |  Type   | Collation | Nullable | Default |
++--------------+---------+-----------+----------+---------+
+| first_column | integer |           |          |         |
+| id           | integer |           |          |         |
++--------------+---------+-----------+----------+---------+
