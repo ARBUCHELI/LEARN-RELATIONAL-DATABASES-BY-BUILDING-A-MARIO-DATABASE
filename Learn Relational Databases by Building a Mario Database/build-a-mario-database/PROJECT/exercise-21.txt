@@ -1,0 +1,14 @@
+Exercise 21:
+------------
+Take a look at the details of second_table again.
+
+>>  \d second_table;
+
+second_database=>                 Table "public.second_table"
++--------------+---------+-----------+----------+---------+
+|    Column    |  Type   | Collation | Nullable | Default |
++--------------+---------+-----------+----------+---------+
+| first_column | integer |           |          |         |
+| id           | integer |           |          |         |
+| age          | integer |           |          |         |
++--------------+---------+-----------+----------+---------+
