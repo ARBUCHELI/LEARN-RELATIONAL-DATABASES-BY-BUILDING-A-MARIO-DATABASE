@@ -1,0 +1,7 @@
+Exercise 24:
+------------
+It's gone. Use the ALTER TABLE and DROP COLUMN keywords again to drop first_column.
+
+>> ALTER TABLE second_table DROP COLUMN first_column;
+
+ALTER TABLE

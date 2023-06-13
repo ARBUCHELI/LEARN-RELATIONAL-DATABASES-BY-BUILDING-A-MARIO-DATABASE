@@ -1,8 +1,0 @@
-Exercise 20:
-------------
-Add another column to second_table named age. Give it a data type of INT.
-
->>  ALTER TABLE second_table ADD COLUMN age INT;
-
-second_database=> ALTER TABLE second_table ADD COLUMN age INT;
-second_database=> ALTER TABLE
