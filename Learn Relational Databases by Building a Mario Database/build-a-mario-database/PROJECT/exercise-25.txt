@@ -1,0 +1,10 @@
+Exercise 25:
+------------
+A common data type is VARCHAR. It's a short string of characters. You need to give it a maximum length when using it like this: 
+VARCHAR(30).
+
+Add a new column to second_table, give it a name of name and a data type of VARCHAR(30).
+
+>> ALTER TABLE second_table ADD COLUMN name VARCHAR(30);
+
+second_database=> ALTER TABLE
