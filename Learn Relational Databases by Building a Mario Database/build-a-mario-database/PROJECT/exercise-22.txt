@@ -1,0 +1,10 @@
+Exercise 22:
+------------
+Those are some good looking columns. You will probably need to know how to remove them. Here's an example:
+
+ALTER TABLE table_name DROP COLUMN column_name;
+Drop your age column.
+
+>>  ALTER TABLE second_table DROP COLUMN age;
+
+ALTER TABLE
