@@ -1,4 +1,4 @@
-Exercise 24:
+Exercise 23:
 ------------
 It's gone. Use the ALTER TABLE and DROP COLUMN keywords again to drop first_column.
 

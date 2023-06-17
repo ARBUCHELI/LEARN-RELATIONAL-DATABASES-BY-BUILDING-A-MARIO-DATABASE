@@ -1,4 +1,4 @@
-Exercise 21:
+Exercise 20:
 ------------
 Take a look at the details of second_table again.
 
