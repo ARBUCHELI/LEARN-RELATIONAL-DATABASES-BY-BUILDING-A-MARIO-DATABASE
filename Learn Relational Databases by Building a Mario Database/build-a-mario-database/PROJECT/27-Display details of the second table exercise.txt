@@ -1,0 +1,13 @@
+Exercise 27:
+------------
+Take a look at the details of second_table again to see if it got renamed.
+
+>> \d second_table;
+
+second_database=>                      Table "public.second_table"
++----------+-----------------------+-----------+----------+---------+
+|  Column  |         Type          | Collation | Nullable | Default |
++----------+-----------------------+-----------+----------+---------+
+| id       | integer               |           |          |         |
+| username | character varying(30) |           |          |         |
++----------+-----------------------+-----------+----------+---------+
