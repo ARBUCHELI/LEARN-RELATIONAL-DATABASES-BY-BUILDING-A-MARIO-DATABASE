@@ -1,0 +1,22 @@
+Exercise 28:
+------------
+It worked. Rows are the actual data in the table. You can add one like this:
+
+INSERT INTO table_name(column_1, column_2) VALUES(value1, value2);
+Insert a row into second_table. Give it an id of 1, and a username of Samus. The username column expects a VARCHAR, so you need to 
+put Samus in single quotes like this: 'Samus'.
+
+>> INSERT INTO second_table(id, username) VALUES(1, 'Samus');
+
+second_database=> INSERT INTO second_table(id, username) VALUES(1, 'Samus');
+second_database=> INSERT 0 1
+
+second_database=> \d second_table
+second_database=>                      Table "public.second_table"
++----------+-----------------------+-----------+----------+---------+
+|  Column  |         Type          | Collation | Nullable | Default |
++----------+-----------------------+-----------+----------+---------+
+| id       | integer               |           |          |         |
+| username | character varying(30) |           |          |         |
++----------+-----------------------+-----------+----------+---------+
+
