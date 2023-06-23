@@ -1,0 +1,16 @@
+Exercise 29:
+------------
+You should have one row in your table. You can view the data in a table by querying it with the SELECT statement. Here's how it looks:
+
+SELECT columns FROM table_name;
+Use a SELECT statement to view all the columns in second_table. Use an asterisk (*) to denote that you want to see all the columns.
+
+>> SELECT * FROM second_table;
+
+second_database=>          
++----+----------+
+| id | username |
++----+----------+
+|  1 | Samus    |
++----+----------+
+(1 row)
