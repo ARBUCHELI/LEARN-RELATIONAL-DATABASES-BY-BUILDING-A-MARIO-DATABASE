@@ -1,0 +1,8 @@
+Exercise 30:
+------------
+There's your one row. Insert another row into second_table. Fill in the id and username columns with the values 2 and 'Mario'.
+
+>> INSERT INTO second_table(id, username) VALUES(2, 'Mario');
+
+INSERT 0 1
+second_database=> 
