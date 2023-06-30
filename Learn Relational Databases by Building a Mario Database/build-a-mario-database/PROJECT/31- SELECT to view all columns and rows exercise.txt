@@ -1,0 +1,14 @@
+Exercise 31:
+------------
+You should now have two rows in the table. Use SELECT again to view all the columns and rows from second_table.
+
+>>SELECT * FROM second_table;
+
+second_database=>          
++----+----------+
+| id | username |
++----+----------+
+|  1 | Samus    |
+|  2 | Mario    |
++----+----------+
+(2 rows)
