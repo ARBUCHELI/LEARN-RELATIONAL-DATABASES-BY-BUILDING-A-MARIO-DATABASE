@@ -1,0 +1,13 @@
+Exercise 35:
+------------
+Luigi should be gone. Use SELECT again to see all the data and make sure he's not there.
+
+>>SELECT * FROM second_table;
+
++----+----------+
+| id | username |
++----+----------+
+|  1 | Samus    |
+|  2 | Mario    |
++----+----------+
+(2 rows)
