@@ -1,0 +1,16 @@
+Exercise 33:
+------------
+You should now have three rows. Use SELECT again to see all the data you entered.
+
+>>SELECT * FROM second_table;
+
+second_database=>          
++----+----------+
+| id | username |
++----+----------+
+|  1 | Samus    |
+|  2 | Mario    |
+|  3 | Luigi    |
++----+----------+
+(3 rows)
+
