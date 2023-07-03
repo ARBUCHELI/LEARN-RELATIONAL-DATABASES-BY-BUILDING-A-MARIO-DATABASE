@@ -1,0 +1,8 @@
+Exercise 36:
+------------
+It's gone. You can scrap all this for the new database. Delete Mario from second_table using the same command as before, except 
+make the condition username='Mario' this time.
+
+>> DELETE FROM second_table WHERE username='Mario';
+
+second_database=> DELETE 1
