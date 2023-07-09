@@ -1,0 +1,8 @@
+Exercise 37:
+------------
+Only one more row should remain. Delete Samus from second_table.
+
+>> DELETE FROM second_table WHERE username='Samus';
+
+second_database=> DELETE 1
+
